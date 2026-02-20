@@ -1,21 +1,19 @@
-import { categorize } from './categorizer.js';
-
 /**
  * Sort cards by store layout.
  * @param {Array} cards - Trello card objects with { id, name }
  * @param {Object} storeLayout - The store-layout.json data
  * @returns {string[]} - Sorted array of card IDs
  */
-export function sortByStoreLayout(cards, storeLayout) {
-  const annotated = cards.map(card => ({
-    id: card.id,
-    ...categorize(card.name, storeLayout),
-  }));
+function sortByStoreLayout(cards, storeLayout) {
+  var annotated = cards.map(function (card) {
+    var result = categorize(card.name, storeLayout);
+    return { id: card.id, sectionIndex: result.sectionIndex, itemIndex: result.itemIndex };
+  });
 
-  annotated.sort((a, b) => {
+  annotated.sort(function (a, b) {
     if (a.sectionIndex !== b.sectionIndex) return a.sectionIndex - b.sectionIndex;
     return a.itemIndex - b.itemIndex;
   });
 
-  return annotated.map(c => c.id);
+  return annotated.map(function (c) { return c.id; });
 }
