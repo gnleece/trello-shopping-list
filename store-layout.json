@@ -2,118 +2,266 @@
   "sections": [
     {
       "name": "Produce",
-      "keywords": ["apple", "banana", "lettuce", "tomato", "cucumber", "onion", "potato", "carrot", "broccoli", "pepper"],
-      "items": ["lettuce", "cucumber", "tomato", "onion", "potato", "carrot", "broccoli", "apple", "banana"]
+      "keywords": [
+        "berries",
+        "blueberries",
+        "strawberries",
+        "raspberries",
+        "grapes",
+        "cucumber",
+        "zucchini",
+        "peppers",
+        "broccoli",
+        "carrots",
+        "green onion",
+        "boy choy",
+        "apple",
+        "lime",
+        "lemon",
+        "tomato",
+        "shallot",
+        "ginger",
+        "basil",
+        "salad greens",
+        "onion",
+        "potato",
+        "bananas"
+      ]
     },
     {
       "name": "Prepared Foods",
-      "keywords": ["sushi", "rotisserie chicken", "chicken strips", "shredded chicken", "guac", "hummus"],
-      "items": []
+      "keywords": [
+        "sushi",
+        "rotisserie chicken",
+        "chicken strips",
+        "shredded chicken",
+        "guac",
+        "hummus"
+      ]
     },
     {
       "name": "Alcohol",
-      "keywords": ["beer", "wine", "cider"],
-      "items": []
+      "keywords": [
+        "beer",
+        "wine",
+        "cider"
+      ]
     },
     {
       "name": "Cheese Counter",
-      "keywords": ["parmesean", "goat cheese", "beechers", "beecher's", "cheese curds", "feta", "halloumi"],
-      "items": []
+      "keywords": [
+        "parmesean",
+        "goat cheese",
+        "beechers",
+        "beecher's",
+        "cheese curds",
+        "feta",
+        "halloumi"
+      ]
     },
     {
       "name": "Fresh Bakery",
-      "keywords": ["sourdough", "baguette", "croissant", "muffin"],
-      "items": []
+      "keywords": [
+        "sourdough",
+        "baguette",
+        "croissant",
+        "muffin"
+      ]
     },
     {
       "name": "Snacks",
-      "keywords": ["chips", "crackers", "cookies", "oreos", "nuts", "popcorn"],
-      "items": []
+      "keywords": [
+        "chips",
+        "crackers",
+        "cookies",
+        "oreos",
+        "nuts",
+        "popcorn"
+      ]
     },
     {
       "name": "Raw Meat",
-      "keywords": ["salmon", "shrimp", "chicken breast", "chicken thighs", "ground chicken", "ground pork", "ground beef", "steak", "sausage", "pork butt"],
-      "items": []
+      "keywords": [
+        "salmon",
+        "shrimp",
+        "chicken breast",
+        "chicken thighs",
+        "ground chicken",
+        "ground pork",
+        "ground beef",
+        "steak",
+        "sausage",
+        "pork butt"
+      ]
     },
     {
       "name": "Dairy 1",
-      "keywords": ["tofu", "cheese sticks", "string cheese", "cheese slices", "colby slices", "bacon", "ham", "sliced turkey", "deli"],
-      "items": []
+      "keywords": [
+        "tofu",
+        "cheese sticks",
+        "string cheese",
+        "cheese slices",
+        "colby slices",
+        "shredded cheese",
+        "bacon",
+        "ham",
+        "sliced turkey",
+        "deli"
+      ]
     },
     {
       "name": "Dairy 2",
-      "keywords": ["yogurt", "butter", "egg", "eggs", "sour cream", "kefir"],
-      "items": []
+      "keywords": [
+        "yogurt",
+        "butter",
+        "egg",
+        "eggs",
+        "sour cream",
+        "kefir"
+      ]
     },
     {
       "name": "Dairy 3",
-      "keywords": ["milk", "cream", "half and half", "iced coffee"],
-      "items": []
+      "keywords": [
+        "milk",
+        "cream",
+        "half and half",
+        "iced coffee"
+      ]
     },
     {
       "name": "Frozen Foods",
-      "keywords": ["frozen", "ice cream", "pizza", "frozen vegetables", "frozen fruit"],
-      "items": []
+      "keywords": [
+        "frozen",
+        "ice cream",
+        "pizza",
+        "frozen vegetables",
+        "frozen fruit"
+      ]
     },
     {
       "name": "Canned Beverages",
-      "keywords": ["spindrift", "la croix", "ginger ale", "coke", "pop", "soda", "crystal light", "gatorade"],
-      "items": []
+      "keywords": [
+        "spindrift",
+        "la croix",
+        "ginger ale",
+        "coke",
+        "pop",
+        "soda",
+        "crystal light",
+        "gatorade"
+      ]
     },
     {
       "name": "Coffee & Tea",
-      "keywords": ["ground coffee", "tea", "throat coat tea"],
-      "items": []
+      "keywords": [
+        "ground coffee",
+        "tea",
+        "throat coat tea"
+      ]
     },
     {
       "name": "Baking",
-      "keywords": ["sugar", "flour", "yeast", "cake mix", "muffin tin liners"],
-      "items": []
+      "keywords": [
+        "sugar",
+        "flour",
+        "yeast",
+        "cake mix",
+        "muffin tin liners"
+      ]
     },
     {
       "name": "Packaged Bread",
-      "keywords": ["english muffins", "sandwich bread", "buns"],
-      "items": []
+      "keywords": [
+        "english muffins",
+        "sandwich bread",
+        "buns"
+      ]
     },
     {
       "name": "Cat Stuff",
-      "keywords": ["cat food", "cat litter", "kitty litter"],
-      "items": []
+      "keywords": [
+        "cat food",
+        "cat litter",
+        "kitty litter"
+      ]
     },
     {
       "name": "Cereal, Granola, Peanut Butter",
-      "keywords": ["cereal", "raisin bran", "cheerios", "oatmeal", "oats", "granola", "apple sauce", "lara bars"],
-      "items": []
+      "keywords": [
+        "cereal",
+        "raisin bran",
+        "cheerios",
+        "oatmeal",
+        "oats",
+        "granola",
+        "apple sauce",
+        "lara bars"
+      ]
     },
     {
       "name": "Rice & Beans",
-      "keywords": ["rice", "beans", "chickpeas"],
-      "items": []
+      "keywords": [
+        "rice",
+        "beans",
+        "chickpeas"
+      ]
     },
     {
       "name": "Canned Vegetables",
-      "keywords": ["canned"],
-      "items": []
+      "keywords": [
+        "canned"
+      ]
     },
     {
       "name": "Pasta & Tomatoes",
-      "keywords": ["pasta", "spaghetti", "rotini", "macaroni", "pasta sauce", "tomato sauce", "diced tomatoes", "crushed tomatoes", "tomato paste"],
-      "items": []
+      "keywords": [
+        "pasta",
+        "spaghetti",
+        "rotini",
+        "macaroni",
+        "pasta sauce",
+        "tomato sauce",
+        "diced tomatoes",
+        "crushed tomatoes",
+        "tomato paste"
+      ]
     },
     {
       "name": "International",
-      "keywords": ["soy sauce", "chili crisp", "sesame oil", "rice vinegar", "salsa", "tortillas"],
-      "items": []
+      "keywords": [
+        "soy sauce",
+        "chili crisp",
+        "sesame oil",
+        "rice vinegar",
+        "salsa",
+        "tortillas"
+      ]
     },
     {
       "name": "Condiments & Sauces",
-      "keywords": ["ketchup", "mustard", "mayo", "mayonnaise", "sauce", "dressing", "oil", "vinegar"],
-      "items": []
+      "keywords": [
+        "ketchup",
+        "mustard",
+        "mayo",
+        "mayonnaise",
+        "sauce",
+        "dressing",
+        "oil",
+        "vinegar"
+      ]
     },
     {
       "name": "Household & Other",
-      "keywords": ["paper towel", "toilet paper", "soap", "detergent", "trash bags", "foil", "plastic wrap"],
-      "items": []
+      "keywords": [
+        "paper towel",
+        "toilet paper",
+        "soap",
+        "detergent",
+        "trash bags",
+        "foil",
+        "plastic wrap"
+      ]
     }
   ]
 }
