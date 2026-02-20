@@ -1,0 +1,54 @@
+{
+  "sections": [
+    {
+      "name": "Produce",
+      "keywords": ["apple", "banana", "lettuce", "tomato", "cucumber", "onion", "potato", "carrot", "broccoli", "pepper"],
+      "items": ["lettuce", "cucumber", "tomato", "onion", "potato", "carrot", "broccoli", "apple", "banana"]
+    },
+    {
+      "name": "Bakery",
+      "keywords": ["bread", "bagel", "roll", "croissant", "muffin", "baguette"],
+      "items": ["bread", "bagel", "roll"]
+    },
+    {
+      "name": "Deli & Meat",
+      "keywords": ["chicken", "beef", "pork", "turkey", "steak", "ground beef", "sausage", "bacon", "ham", "deli"],
+      "items": []
+    },
+    {
+      "name": "Dairy",
+      "keywords": ["milk", "cheese", "yogurt", "butter", "cream", "egg", "eggs", "sour cream"],
+      "items": ["milk", "eggs", "cheese", "butter", "yogurt"]
+    },
+    {
+      "name": "Frozen Foods",
+      "keywords": ["frozen", "ice cream", "pizza", "frozen vegetables", "frozen fruit"],
+      "items": []
+    },
+    {
+      "name": "Canned & Dry Goods",
+      "keywords": ["canned", "beans", "soup", "pasta", "rice", "cereal", "oatmeal", "flour", "sugar"],
+      "items": ["pasta", "rice", "cereal", "beans", "soup"]
+    },
+    {
+      "name": "Beverages",
+      "keywords": ["water", "juice", "soda", "coffee", "tea", "beer", "wine"],
+      "items": []
+    },
+    {
+      "name": "Snacks",
+      "keywords": ["chips", "crackers", "cookies", "nuts", "popcorn", "granola"],
+      "items": []
+    },
+    {
+      "name": "Condiments & Sauces",
+      "keywords": ["ketchup", "mustard", "mayo", "mayonnaise", "sauce", "dressing", "oil", "vinegar", "soy sauce"],
+      "items": []
+    },
+    {
+      "name": "Household & Other",
+      "keywords": ["paper towel", "toilet paper", "soap", "detergent", "trash bags", "foil", "plastic wrap"],
+      "items": []
+    }
+  ]
+}

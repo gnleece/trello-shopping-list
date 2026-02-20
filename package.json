@@ -1,0 +1,6 @@
+{
+  "name": "trello-shopping-list",
+  "version": "1.0.0",
+  "description": "Trello Power-Up that sorts grocery list cards by store aisle layout",
+  "private": true
+}
